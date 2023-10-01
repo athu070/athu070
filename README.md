@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Sonawane</h1>
-<h3 align="center">Highly motivated undergraduate student with a passion for learning new things and problem-solving mindset.Open minded thinking and the ability to continuously learn and adapt</h3>
+<h3 align="center"> Diligent and highly motivated computer engineering student known for problem-solving skills and unwavering passion for technology. With a strong foundation in software, is poised to make a lasting impact in the world of computer engineering.</h3>
 
 <p align="left"> <a href="https://twitter.com/athu070" target="blank"><img src="https://img.shields.io/twitter/follow/athu070?logo=twitter&style=for-the-badge" alt="athu070" /></a> </p>
 
