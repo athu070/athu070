@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/athu070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athu070" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atharva-sonawane-668198194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-sonawane-668198194/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atharva-sonawane-668198194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-sonawane-668198194" height="30" width="40" /></a>
 <a href="https://instagram.com/athu._______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="athu._______" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/athu070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="athu070" height="30" width="40" /></a>
 </p>
