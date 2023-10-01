@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Quantum Glasses](https://github.com/athu070/quantum-glasses)
 
-- 🌱 I’m currently learning **DevOPs & Frontend Development**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **atharvasonawane34@gmail.com**
 
